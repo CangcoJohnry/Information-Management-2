@@ -5,3 +5,10 @@ C:\Users\Acer\source\repos\Home Work 1\obj\Debug\Home Work 1.csproj.AssemblyRefe
 C:\Users\Acer\source\repos\Home Work 1\obj\Debug\Home Work 1.csproj.CoreCompileInputs.cache
 C:\Users\Acer\source\repos\Home Work 1\obj\Debug\Home Work 1.exe
 C:\Users\Acer\source\repos\Home Work 1\obj\Debug\Home Work 1.pdb
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\bin\Debug\Home Work 1.exe.config
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\bin\Debug\Home Work 1.exe
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\bin\Debug\Home Work 1.pdb
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\obj\Debug\Home Work 1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\obj\Debug\Home Work 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\obj\Debug\Home Work 1.exe
+C:\Users\Acer\Documents\IM2\HW1\Home Work 1\obj\Debug\Home Work 1.pdb
