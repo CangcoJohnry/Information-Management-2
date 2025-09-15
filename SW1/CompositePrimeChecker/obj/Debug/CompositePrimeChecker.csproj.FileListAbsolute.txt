@@ -1,0 +1,7 @@
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\bin\Debug\CompositePrimeChecker.exe.config
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\bin\Debug\CompositePrimeChecker.exe
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\bin\Debug\CompositePrimeChecker.pdb
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\obj\Debug\CompositePrimeChecker.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\obj\Debug\CompositePrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\obj\Debug\CompositePrimeChecker.exe
+C:\Users\Acer\Documents\IM2\SW1\CompositePrimeChecker\obj\Debug\CompositePrimeChecker.pdb

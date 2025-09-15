@@ -1,0 +1,7 @@
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\obj\Debug\dToPesoAndYen.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\obj\Debug\dToPesoAndYen.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\bin\Debug\dToPesoAndYen.exe.config
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\bin\Debug\dToPesoAndYen.exe
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\bin\Debug\dToPesoAndYen.pdb
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\obj\Debug\dToPesoAndYen.exe
+C:\Users\Acer\Documents\IM2\dToPesoAndYen\obj\Debug\dToPesoAndYen.pdb
